@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("chenyue test");
+        System.out.println("chenyue distance modify 123");
     }
 }
